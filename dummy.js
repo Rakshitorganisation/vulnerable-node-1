@@ -10,7 +10,11 @@ var dummy_info = {
     {
       "username": "roberto12",
       "password": "asdfpiuw981"
-    }
+    },
+    {
+      "username": "admin",
+      "password": "admin"
+    },
   ],
 
   "products": [
